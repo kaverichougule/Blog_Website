@@ -1,0 +1,15 @@
+.bg-primary{
+    background: #052c41;
+}
+
+.mt20{
+    margin-top: 20px;
+}
+
+.mt40{
+    margin-top: 40px;
+}
+.container-customer{
+    width: 95% !important; 
+    margin: auto;
+}
